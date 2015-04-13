@@ -1,3 +1,3 @@
 # Design-Patterns
-Design Patterns note
-<a href="">1、 策略模式（Strategy）</a>
+Design Patterns note<br>
+<a href="https://github.com/micwu/Design-Patterns/issues/1">1、 策略模式（Strategy）</a>
